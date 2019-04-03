@@ -1,6 +1,5 @@
 # Restaurante
 
- 	PRÁCTICA DE LABORATORIO 
 
 1. Describir 10 objetos relacionados a tema de Restaurantes.
 Empleados: Persona que desempeña algún empleo, cargo o servicio a las órdenes del gobierno o de un particular, corporación o empresa. 
