@@ -18,8 +18,55 @@ Decoraciones: Lo que decora, a las cosas que se utilizan para adornar y al arte 
 Propaganda: La propaganda es una forma de comunicación que tiene como objetivo influir en la actitud de una comunidad respecto a alguna causa o posición
 Comedor: El comedor designa un espacio o lugar en el cual las personas se reúnen para ingerir alimentos, ya sea desayuno, comida, cena o refrigerio.
 2. De los 10 objetos descritos en el paso 1, abstraer 5 de ellos en clases y diagramarlas con tres atributos y tres métodos mínimo para cada clases (los métodos getter y setter no cuentan).
+      Empleado
+ - nombre :  String
+ - cargo : String
+ - id : String
+ ----------------------------------
+ + tomarPedido() : int
+ + ServirComida(index : int) : void
+ + cobrar(index : int) : void
  
-3.
+        Cliente
+ - nombre : String
+ - apellido : String
+ - id : String
+ -----------------------------
+ + selecionarComida() : void
+ + solisitarPedido() : void
+ + pagar() : void
+ 
+        Surcusal
+ - nombre : String
+ - ruc : String
+ - direccion : String
+ --------------------------------------
+ + contratarEmpleado() : int
+ + despedirEmpleado(index : int) : void
+ + pagarEmpleado(index : int) : void
+ 
+       Comida
+ - nombre : String
+ - tipo  : String
+ - precio : double
+ ------------------------------------------
+ + comprar() : int
+ + asignarPlato(index : int) : void
+ + ingresarInformacionNutricional(index : int, infoNutrional : String) : void
+ 
+      EquipoCocina
+ - nombre : String
+ - precio : double
+ - peso : double
+ --------------------------------------
+ + comprar() : int
+ + asignarUtilidad(index : int) : void
+ + comprobarEstado(index : int) : void
+ 
+3.Crear un proyecto Java en Netbeans llamado Practica01-SuApellidoNombre y sobre el mismo codificar las 5 clases seleccionadas en java utilizando: atributos, métodos y encapsulamiento con los métodos getters and setters.  En relación a los métodos (comportamientos) estos solo deben ser declarados es decir no se requiere del procedimiento.
+
+Todas las clases y métodos deben contar con la documentación del código fuente. Además, se debe nombrar correctamente las clases, métodos, atributos y/o paquetes según las buenas prácticas de programación de las convenciones de los códigos de java.
+
 Clase Cliente
 package ec.edu.ups.claces;
 
