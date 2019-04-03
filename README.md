@@ -2,10 +2,6 @@
 
  	PRÁCTICA DE LABORATORIO 
 
-CARRERA: Computacion	ASIGNATURA: Programación Aplicada
-NRO. PRÁCTICA:	1	TÍTULO PRÁCTICA:
-OBJETIVO ALCANZADO:
-ACTIVIDADES DESARROLLADAS
 1. Describir 10 objetos relacionados a tema de Restaurantes.
 Empleados: Persona que desempeña algún empleo, cargo o servicio a las órdenes del gobierno o de un particular, corporación o empresa. 
 Clientes: Un cliente es una persona física o jurídica que recibe un servicio o adquiere un bien a cambio de un dinero u otro tipo de retribución.
